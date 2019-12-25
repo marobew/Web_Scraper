@@ -1,4 +1,4 @@
 # WEB Scraper
 Scrapping Web Pages 📃
-## Fetures
+## Features
 1. indeed
